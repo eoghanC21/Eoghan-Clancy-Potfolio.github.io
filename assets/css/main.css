@@ -3577,6 +3577,10 @@ input, select, textarea {
 			text-transform: uppercase;
 			visibility: visible;
 		}
+		#header .logo + .logo{
+			margin-top: 1rem;
+		}
+
 
 			#header .logo:hover {
 				border-color: #18bfef !important;
